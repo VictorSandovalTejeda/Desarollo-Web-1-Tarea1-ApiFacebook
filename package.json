@@ -1,0 +1,20 @@
+{
+  "name": "api-facebook",
+  "version": "1.0.0",
+  "description": "Backend facebook",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --recursive"
+  },
+  "keywords": [
+    "post",
+    "backend"
+  ],
+  "author": "Victor Sandoval",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.4"
+  }
+}
